@@ -1,1 +1,1 @@
-https://mahmoodobaid.github.io/notification-sms-forwarder-releases/d/
+https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/latest/download/notification-sms-forwarder-latest.apk
