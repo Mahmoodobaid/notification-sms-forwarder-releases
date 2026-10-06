@@ -10,7 +10,14 @@
 
 ## الرابط الدائم للـ QR
 
-- Permanent download URL: https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/latest/download/notification-sms-forwarder-latest.apk
+- Permanent download URL: https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/latest/notification-sms-forwarder-latest.apk
 - هذا الرابط ثابت ولا يتغير بين الإصدارات.
 - يستخدم GitHub Releases `latest/download` ويحمّل asset ثابت الاسم `notification-sms-forwarder-latest.apk` من أحدث Release.
 - لا تستخدم رابط إصدار versioned داخل QR؛ حدّث `latest.json` عبر سكربت النشر فقط.
+
+
+### Permanent QR contract
+The marketing QR must always encode:
+https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/latest/notification-sms-forwarder-latest.apk
+
+The publisher replaces `notification-sms-forwarder-latest.apk` inside the fixed release tag `latest` for every production update.
