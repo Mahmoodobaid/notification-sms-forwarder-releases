@@ -1,23 +1,22 @@
 {
   "schemaVersion": 1,
   "packageName": "com.mahmoodobaid.notificationforwarder",
-  "versionName": "1.4.1",
-  "versionCode": 8,
+  "versionName": "1.4.2",
+  "versionCode": 9,
   "minSupportedVersionCode": 5,
-  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.1-build8/notification-sms-forwarder-1.4.1-build8.apk",
+  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.2-build9/notification-sms-forwarder-1.4.2-build9.apk",
   "storeUrl": "https://mahmoodobaid.github.io/notification-sms-forwarder-releases/",
-  "sha256": "80B535C638BC325E0C180FA0DB41C57E6F2E3A95F3024BFDD78228D4C7E4313D",
-  "sizeBytes": 2540430,
-  "publishedAt": "2026-10-07T00:36:49.2799148Z",
+  "sha256": "4E2826E4BE1E816503463078DD4ACCB00E8E18BB7771200BE7B104514984E1D7",
+  "sizeBytes": 2556818,
+  "publishedAt": "2026-10-07T01:28:16.0455844Z",
   "required": false,
   "releaseNotes": [
-    "إضافة نظام علّمني تفاعلي عربي داخل كل شاشة مع Spotlight وأسهم وبطاقات شرح دقيقة",
-    "استبدال التموضع التقريبي بتحديد حقيقي للعناصر عبر measured anchors وBringIntoView",
-    "إضافة فحص جاهزية ذكي للصلاحيات والمستلمين والمصادر والاشتراك مع إرشاد مباشر للنواقص",
-    "إعادة تصميم الرئيسية والمصادر والمستلمين والإعدادات ببطاقات عصرية وتفاعلية",
-    "إعادة تصميم السجل وآخر العمليات مع شعار التطبيق المصدر وحالة العملية والتفاصيل والنسخ وإعادة المحاولة",
-    "إضافة هوية ألوان للمصادر: جيب والكريمي وواتساب واستخراج لون مناسب تلقائيًا لبقية التطبيقات",
-    "تحسين معالج إضافة وتعديل المصدر ليصبح متعدد المراحل مع تعليم سياقي ومعاينة واضحة",
-    "الحفاظ على رابط QR الدائم ونظام التحديث والاشتراك وحماية OTP والعمل المحلي دون إنترنت"
+    "تفتيح ألوان الشاشات والبطاقات لتصبح أكثر راحة ووضوحًا في الوضع الفاتح",
+    "توحيد زر رجوع Android للعودة إلى الرئيسية من التبويبات الأخرى",
+    "إضافة بطاقة تأكيد خروج أنيقة عند الضغط على رجوع من الصفحة الرئيسية",
+    "إضافة بطاقة ترحيب عائمة متغيرة حسب وقت اليوم مع إغلاق تلقائي وزر إغلاق",
+    "إضافة اعتماد المهندس محمود التركي وبيانات التواصل أسفل بطاقة الترحيب",
+    "تفتيح هويات بطاقات جيب والكريمي وواتساب وبقية التطبيقات مع الحفاظ على ألوان المصدر",
+    "الحفاظ على نظام علّمني الدقيق ورابط QR الدائم والتحديث والاشتراك وحماية OTP"
   ]
 }
