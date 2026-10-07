@@ -1,21 +1,23 @@
 {
   "schemaVersion": 1,
   "packageName": "com.mahmoodobaid.notificationforwarder",
-  "versionName": "1.4.0",
-  "versionCode": 7,
+  "versionName": "1.4.1",
+  "versionCode": 8,
   "minSupportedVersionCode": 5,
-  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.0-build7/notification-sms-forwarder-1.4.0-build7.apk",
+  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.1-build8/notification-sms-forwarder-1.4.1-build8.apk",
   "storeUrl": "https://mahmoodobaid.github.io/notification-sms-forwarder-releases/",
-  "sha256": "D082B71604334A7CEC3D5D0D736E5F153293CA668FF4F31951092F4FE0686D5B",
-  "sizeBytes": 2291361,
-  "publishedAt": "2026-10-06T19:00:50.2017899Z",
+  "sha256": "80B535C638BC325E0C180FA0DB41C57E6F2E3A95F3024BFDD78228D4C7E4313D",
+  "sizeBytes": 2540430,
+  "publishedAt": "2026-10-07T00:36:49.2799148Z",
   "required": false,
   "releaseNotes": [
-    "إضافة نظام تحديث ذاتي كامل بنفس آلية متجر منتجاتي مع SHA-256 واستكمال التنزيل",
-    "إضافة بطاقة تحديث داخل التطبيق وتحديث إجباري/اختياري واستعادة التحديث غير المكتمل",
-    "إضافة اختيار الاسم ورقم الهاتف من جهات الاتصال بدون قراءة سجل الهاتف كاملًا",
-    "إعادة تصميم إعداد مصدر جديد كمعالج خطوات واضح وتفاعلي مع معاينة حية",
-    "تحسين فحص إشعارات التطبيقات المستهدفة وواتساب والقواعد متعددة المصادر والمستلمين",
-    "الحفاظ على العمل دون إنترنت وعلى حماية OTP ورموز التحقق"
+    "إضافة نظام علّمني تفاعلي عربي داخل كل شاشة مع Spotlight وأسهم وبطاقات شرح دقيقة",
+    "استبدال التموضع التقريبي بتحديد حقيقي للعناصر عبر measured anchors وBringIntoView",
+    "إضافة فحص جاهزية ذكي للصلاحيات والمستلمين والمصادر والاشتراك مع إرشاد مباشر للنواقص",
+    "إعادة تصميم الرئيسية والمصادر والمستلمين والإعدادات ببطاقات عصرية وتفاعلية",
+    "إعادة تصميم السجل وآخر العمليات مع شعار التطبيق المصدر وحالة العملية والتفاصيل والنسخ وإعادة المحاولة",
+    "إضافة هوية ألوان للمصادر: جيب والكريمي وواتساب واستخراج لون مناسب تلقائيًا لبقية التطبيقات",
+    "تحسين معالج إضافة وتعديل المصدر ليصبح متعدد المراحل مع تعليم سياقي ومعاينة واضحة",
+    "الحفاظ على رابط QR الدائم ونظام التحديث والاشتراك وحماية OTP والعمل المحلي دون إنترنت"
   ]
 }

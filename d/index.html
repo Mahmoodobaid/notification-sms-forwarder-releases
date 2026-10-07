@@ -32,9 +32,7 @@
     if(!r.ok) throw new Error('HTTP '+r.status);
     const x=await r.json();
     const prefix='https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/';
-    if(x.packageName!=='com.mahmoodobaid.notificationforwarder' || typeof x.downloadUrl!=='string' || !x.downloadUrl.startsWith(prefix)){
-      throw new Error('Invalid update manifest');
-    }
+    if(x.packageName!=='com.mahmoodobaid.notificationforwarder' || typeof x.downloadUrl!=='string' || !x.downloadUrl.startsWith(prefix)) throw new Error('Invalid update manifest');
     manual.href=x.downloadUrl;
     manual.textContent='تنزيل أحدث إصدار الآن';
     window.location.replace(x.downloadUrl);
