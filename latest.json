@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "packageName": "com.mahmoodobaid.notificationforwarder",
-  "versionName": "1.4.2",
-  "versionCode": 9,
+  "versionName": "1.4.3",
+  "versionCode": 10,
   "minSupportedVersionCode": 5,
-  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.2-build9/notification-sms-forwarder-1.4.2-build9.apk",
+  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.3-build10/notification-sms-forwarder-1.4.3-build10.apk",
   "storeUrl": "https://mahmoodobaid.github.io/notification-sms-forwarder-releases/",
-  "sha256": "4E2826E4BE1E816503463078DD4ACCB00E8E18BB7771200BE7B104514984E1D7",
+  "sha256": "F0A7112916B76E639BE816572AA11EC4E5FAADFD985C0F903F0D3FB3A5482001",
   "sizeBytes": 2556818,
-  "publishedAt": "2026-10-07T01:28:16.0455844Z",
+  "publishedAt": "2026-10-08T00:22:55.1677485Z",
   "required": false,
   "releaseNotes": [
-    "تفتيح ألوان الشاشات والبطاقات لتصبح أكثر راحة ووضوحًا في الوضع الفاتح",
-    "توحيد زر رجوع Android للعودة إلى الرئيسية من التبويبات الأخرى",
-    "إضافة بطاقة تأكيد خروج أنيقة عند الضغط على رجوع من الصفحة الرئيسية",
-    "إضافة بطاقة ترحيب عائمة متغيرة حسب وقت اليوم مع إغلاق تلقائي وزر إغلاق",
-    "إضافة اعتماد المهندس محمود التركي وبيانات التواصل أسفل بطاقة الترحيب",
-    "تفتيح هويات بطاقات جيب والكريمي وواتساب وبقية التطبيقات مع الحفاظ على ألوان المصدر",
-    "الحفاظ على نظام علّمني الدقيق ورابط QR الدائم والتحديث والاشتراك وحماية OTP"
+    "تطوير «حدد ما الذي يجب قبوله» إلى قائمة فلاتر مع إضافة وتعديل وحذف كل فلتر بشكل مستقل",
+    "دعم أكثر من فلتر لكل مصدر مع الحفاظ على شرط فلتر واحد على الأقل لمصادر واتساب",
+    "إضافة مرحلة خامسة لإخفاء الأرقام الحساسة بعد كلمات يحددها المستخدم مثل رص: أو الرصيد أو رصيدكم",
+    "دعم إخفاء الأرقام العربية والإنجليزية والفواصل العشرية والنقط والفواصل مع الإبقاء على العملة وبقية الإشعار",
+    "إضافة معاينة مباشرة قبل وبعد إخفاء الأرقام وحفظ أكثر من موضع إخفاء لكل مصدر",
+    "تصغير كلمات تخطي والسابق والتالي في بطاقات التعليم لمنع التفافها إلى سطرين",
+    "الحفاظ على حماية OTP ونظام الاشتراك والتحديث وQR الدائم وجميع ميزات 1.4.2"
   ]
 }
