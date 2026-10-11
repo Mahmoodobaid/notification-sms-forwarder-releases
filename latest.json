@@ -1,22 +1,18 @@
 {
   "schemaVersion": 1,
   "packageName": "com.mahmoodobaid.notificationforwarder",
-  "versionName": "1.4.3",
-  "versionCode": 10,
+  "versionName": "1.4.7",
+  "versionCode": 14,
   "minSupportedVersionCode": 5,
-  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.3-build10/notification-sms-forwarder-1.4.3-build10.apk",
+  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.7-build14/notification-sms-forwarder-1.4.7-build14.apk",
   "storeUrl": "https://mahmoodobaid.github.io/notification-sms-forwarder-releases/",
-  "sha256": "F0A7112916B76E639BE816572AA11EC4E5FAADFD985C0F903F0D3FB3A5482001",
-  "sizeBytes": 2556818,
-  "publishedAt": "2026-10-08T00:22:55.1677485Z",
+  "sha256": "4F28F01750B56EE4F4BB051958A3A99CF4CBFE952ADA9DAA909E2958FDD62C42",
+  "sizeBytes": 2589722,
+  "publishedAt": "2026-10-11T22:12:13.5426337Z",
   "required": false,
   "releaseNotes": [
-    "تطوير «حدد ما الذي يجب قبوله» إلى قائمة فلاتر مع إضافة وتعديل وحذف كل فلتر بشكل مستقل",
-    "دعم أكثر من فلتر لكل مصدر مع الحفاظ على شرط فلتر واحد على الأقل لمصادر واتساب",
-    "إضافة مرحلة خامسة لإخفاء الأرقام الحساسة بعد كلمات يحددها المستخدم مثل رص: أو الرصيد أو رصيدكم",
-    "دعم إخفاء الأرقام العربية والإنجليزية والفواصل العشرية والنقط والفواصل مع الإبقاء على العملة وبقية الإشعار",
-    "إضافة معاينة مباشرة قبل وبعد إخفاء الأرقام وحفظ أكثر من موضع إخفاء لكل مصدر",
-    "تصغير كلمات تخطي والسابق والتالي في بطاقات التعليم لمنع التفافها إلى سطرين",
-    "الحفاظ على حماية OTP ونظام الاشتراك والتحديث وQR الدائم وجميع ميزات 1.4.2"
+    "توحيد تسجيل الدخول والاشتراك مع تطبيقات الحزمة الثلاثة.",
+    "استعادة الجلسة المشفّرة على الهاتف عند تثبيت تطبيق آخر أو إعادة تثبيته مع بقاء تطبيق موثوق.",
+    "تحديث التحقق من الجلسة المشتركة مع الحفاظ على رابط QR الدائم."
   ]
 }
