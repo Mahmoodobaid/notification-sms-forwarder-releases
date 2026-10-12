@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
   "packageName": "com.mahmoodobaid.notificationforwarder",
-  "versionName": "1.4.8",
-  "versionCode": 15,
+  "versionName": "1.4.9",
+  "versionCode": 16,
   "minSupportedVersionCode": 5,
-  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.8-build15/notification-sms-forwarder-1.4.8-build15.apk",
+  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.9-build16/notification-sms-forwarder-1.4.9-build16.apk",
   "storeUrl": "https://mahmoodobaid.github.io/notification-sms-forwarder-releases/",
-  "sha256": "CBB4B47968EC37D77AFBFF04F7A492504B1E5295B2C806B59EFE85C08712A813",
+  "sha256": "D11C435CE4A97DD3951E5B704B30DDB527CAC03D9A116CDEC92DD885E544AA75",
   "sizeBytes": 2589698,
-  "publishedAt": "2026-10-12T19:33:21.8198608Z",
+  "publishedAt": "2026-10-12T19:57:20.5733330Z",
   "required": false,
   "releaseNotes": [
-    "إصلاح استعادة حساب محول الإشعارات بعد تحديث التطبيق أو إعادة تنزيله عند توفر نسخة Android الاحتياطية أو هوية تطبيق موثوق من الحزمة.",
-    "حفظ معرّف جهاز عشوائي فقط في النسخة الاحتياطية؛ جلسات الدخول المشفرة والمفاتيح السرية مستثناة.",
-    "إذا كان التطبيق قد حُذف قبل هذا الإصدار ولم تتوفر هوية مشتركة أو نسخة احتياطية، استخدم تحقق رقم الهاتف مرة واحدة؛ بعدها يستعيد الجهاز حسابه تلقائيًا.",
-    "معرّف الجهاز لا يمنح صلاحية دخول؛ يظل إثبات ملكية الحساب مطلوبًا عند غياب الجلسة الموثوقة."
+    "شرح أول تشغيل يظلّل العنصر الفعلي ويستخدم أهداف «علّمني» المقاسة نفسها؛ يعيد فحص الصلاحيات بعد الرجوع من Android.",
+    "إضافة تشخيص واضح لأخطاء SMS والصلاحيات والتغطية والشريحة والحدود المؤقتة مع أزرار تفتح إعدادات النظام المناسبة.",
+    "تمييز حظر رموز التحقق والمحتوى الحساس كحماية مقصودة، وتوضيح أن منع الأرقام المختصرة يفرضه النظام أو مشغل الشبكة.",
+    "تحديث الألوان للفاتح والداكن، وفصل حالات الإجراء المطلوب عن توصيات البطارية وSIM الاختيارية."
   ]
 }
