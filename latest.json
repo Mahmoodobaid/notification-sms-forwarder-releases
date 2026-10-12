@@ -1,19 +1,17 @@
 {
   "schemaVersion": 1,
   "packageName": "com.mahmoodobaid.notificationforwarder",
-  "versionName": "1.4.9",
-  "versionCode": 16,
+  "versionName": "1.4.10",
+  "versionCode": 17,
   "minSupportedVersionCode": 5,
-  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.9-build16/notification-sms-forwarder-1.4.9-build16.apk",
+  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.10-build17/notification-sms-forwarder-1.4.10-build17.apk",
   "storeUrl": "https://mahmoodobaid.github.io/notification-sms-forwarder-releases/",
-  "sha256": "D11C435CE4A97DD3951E5B704B30DDB527CAC03D9A116CDEC92DD885E544AA75",
-  "sizeBytes": 2589698,
-  "publishedAt": "2026-10-12T19:57:20.5733330Z",
+  "sha256": "58D7950BD406E1CA1604F3427846DB9C583E45157751D0884C1CB91CC3C8BC03",
+  "sizeBytes": 2589702,
+  "publishedAt": "2026-10-12T20:07:26.3011507Z",
   "required": false,
   "releaseNotes": [
-    "شرح أول تشغيل يظلّل العنصر الفعلي ويستخدم أهداف «علّمني» المقاسة نفسها؛ يعيد فحص الصلاحيات بعد الرجوع من Android.",
-    "إضافة تشخيص واضح لأخطاء SMS والصلاحيات والتغطية والشريحة والحدود المؤقتة مع أزرار تفتح إعدادات النظام المناسبة.",
-    "تمييز حظر رموز التحقق والمحتوى الحساس كحماية مقصودة، وتوضيح أن منع الأرقام المختصرة يفرضه النظام أو مشغل الشبكة.",
-    "تحديث الألوان للفاتح والداكن، وفصل حالات الإجراء المطلوب عن توصيات البطارية وSIM الاختيارية."
+    "إصلاح اتجاه عدّاد خطوات الشرح التفاعلي في الواجهات العربية RTL.",
+    "يتضمن تحسينات الإرشاد، تشخيص أخطاء SMS وإعدادات الصلاحيات، والألوان الرسمية التي اجتازت فحوصات الإصدار."
   ]
 }
