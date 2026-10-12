@@ -1,18 +1,19 @@
 {
   "schemaVersion": 1,
   "packageName": "com.mahmoodobaid.notificationforwarder",
-  "versionName": "1.4.7",
-  "versionCode": 14,
+  "versionName": "1.4.8",
+  "versionCode": 15,
   "minSupportedVersionCode": 5,
-  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.7-build14/notification-sms-forwarder-1.4.7-build14.apk",
+  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.8-build15/notification-sms-forwarder-1.4.8-build15.apk",
   "storeUrl": "https://mahmoodobaid.github.io/notification-sms-forwarder-releases/",
-  "sha256": "4F28F01750B56EE4F4BB051958A3A99CF4CBFE952ADA9DAA909E2958FDD62C42",
-  "sizeBytes": 2589722,
-  "publishedAt": "2026-10-12T04:09:01.1122805Z",
+  "sha256": "CBB4B47968EC37D77AFBFF04F7A492504B1E5295B2C806B59EFE85C08712A813",
+  "sizeBytes": 2589698,
+  "publishedAt": "2026-10-12T19:33:21.8198608Z",
   "required": false,
   "releaseNotes": [
-    "توحيد تسجيل الدخول والاشتراك مع تطبيقات الحزمة الثلاثة.",
-    "استعادة الجلسة المشفّرة على الهاتف عند تثبيت تطبيق آخر أو إعادة تثبيته مع بقاء تطبيق موثوق.",
-    "تحديث التحقق من الجلسة المشتركة مع الحفاظ على رابط QR الدائم."
+    "إصلاح استعادة حساب محول الإشعارات بعد تحديث التطبيق أو إعادة تنزيله عند توفر نسخة Android الاحتياطية أو هوية تطبيق موثوق من الحزمة.",
+    "حفظ معرّف جهاز عشوائي فقط في النسخة الاحتياطية؛ جلسات الدخول المشفرة والمفاتيح السرية مستثناة.",
+    "إذا كان التطبيق قد حُذف قبل هذا الإصدار ولم تتوفر هوية مشتركة أو نسخة احتياطية، استخدم تحقق رقم الهاتف مرة واحدة؛ بعدها يستعيد الجهاز حسابه تلقائيًا.",
+    "معرّف الجهاز لا يمنح صلاحية دخول؛ يظل إثبات ملكية الحساب مطلوبًا عند غياب الجلسة الموثوقة."
   ]
 }
