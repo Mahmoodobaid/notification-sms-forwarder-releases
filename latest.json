@@ -1,17 +1,19 @@
 {
   "schemaVersion": 1,
   "packageName": "com.mahmoodobaid.notificationforwarder",
-  "versionName": "1.4.12",
-  "versionCode": 19,
+  "versionName": "1.4.13",
+  "versionCode": 20,
   "minSupportedVersionCode": 5,
-  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.12-build19/notification-sms-forwarder-1.4.12-build19.apk",
+  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.13-build20/notification-sms-forwarder-1.4.13-build20.apk",
   "storeUrl": "https://mahmoodobaid.github.io/notification-sms-forwarder-releases/",
-  "sha256": "D94ED47228EB47909878D6CA6A23A9BFC075250E79D74DB595A98E6328616BDD",
+  "sha256": "D20951A8EBFD1A53FC4D04CD54093BF506F104FE3ABB473262F51FC28463A2D2",
   "sizeBytes": 2589702,
-  "publishedAt": "2026-10-12T21:18:58.3572598Z",
+  "publishedAt": "2026-10-14T03:14:24.5939251Z",
   "required": false,
   "releaseNotes": [
-    "إصلاح رسائل رموز الاشتراك والاستعادة الموحدة وتحسين توجيه المستخدم.",
-    "تم التحقق من الاختبارات والتحليل وبناء النسخة وتوقيعها وتثبيتها على جهاز Android دون مسح بيانات التطبيق."
+    "جولة إعداد تفاعلية تفتح شاشة المستلمين ثم المصادر وتشغّل شرح علّمني على العناصر نفسها.",
+    "إصلاح طابور رسائل التحقق في الاستعادة الموحدة وتحسين توافق التحقق من طول الرسالة مع PostgreSQL.",
+    "تحسين قراءة مفتاح تشفير رسائل الاستعادة عند نسخه مع مسافات أو حشو Base64.",
+    "الإبقاء على جميع ميزات التحويل والاشتراك الموحد والحماية والتحديث الآمن."
   ]
 }
