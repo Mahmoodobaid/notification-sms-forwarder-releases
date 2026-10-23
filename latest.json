@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
   "packageName": "com.mahmoodobaid.notificationforwarder",
-  "versionName": "1.4.15",
-  "versionCode": 22,
+  "versionName": "1.4.16",
+  "versionCode": 23,
   "minSupportedVersionCode": 5,
-  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.15-build22/notification-sms-forwarder-1.4.15-build22.apk",
+  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.16-build23/notification-sms-forwarder-1.4.16-build23.apk",
   "storeUrl": "https://mahmoodobaid.github.io/notification-sms-forwarder-releases/",
-  "sha256": "86B26C44CB8CEA22B64B251907EE79AB1A2BE081E076099D2E95366240391852",
-  "sizeBytes": 2638914,
-  "publishedAt": "2026-10-23T00:52:23.4141998Z",
+  "sha256": "5546BBE94FABF2D01A6EBC2ACF849D15A44A129F987882D7033A4C1E5C97FFD6",
+  "sizeBytes": 2655362,
+  "publishedAt": "2026-10-23T20:37:01.4151987Z",
   "required": false,
   "releaseNotes": [
-    "تحسين الدخول والاستعادة والتسجيل عبر الاشتراك الموحد لجميع تطبيقات الحزمة.",
-    "إيقاف التسجيل الجديد وإظهار مسار واضح لتسجيل الدخول أو الاستعادة عند إغلاقه.",
-    "تحديث الاشتراك عند فتح التطبيق، مع الحفاظ على الاستحقاق المحلي عند انقطاع الإنترنت وإعادة المحاولة دوريًا.",
-    "اجتازت النسخة اختبارات Android وLint والتحقق من توقيع APK."
+    "إضافة تطبيق الرسائل الافتراضي تلقائياً إلى مصادر التحويل مع فلاتر jaib وMfloos وعلامتي إخفاء رص: ورصيدك قابلة للتعديل.",
+    "منع إرسال الرسالة نفسها أكثر من مرة للرقم نفسه عند وصولها من مصادر مختلفة، بحجز محلي ذري سريع قبل الإرسال.",
+    "تحسين شاشة التصنيف بألوان مميزة ومتوافقة مع كل تصنيف ونقل عمود التصنيف قبل نص الرسالة.",
+    "تحقق الإصدار 1.4.16+23: اختبارات Android وlint وبناء APK الإنتاج والتحقق من التوقيع."
   ]
 }
