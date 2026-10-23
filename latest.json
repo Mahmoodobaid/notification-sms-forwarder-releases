@@ -1,21 +1,19 @@
 {
   "schemaVersion": 1,
   "packageName": "com.mahmoodobaid.notificationforwarder",
-  "versionName": "1.4.14",
-  "versionCode": 21,
+  "versionName": "1.4.15",
+  "versionCode": 22,
   "minSupportedVersionCode": 5,
-  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.14-build21/notification-sms-forwarder-1.4.14-build21.apk",
+  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.15-build22/notification-sms-forwarder-1.4.15-build22.apk",
   "storeUrl": "https://mahmoodobaid.github.io/notification-sms-forwarder-releases/",
-  "sha256": "F2F8BAF0A90EE359C7E27CFC5ACE0DBF5E5DAAC43289F404F6BFFD23FAADBDE0",
+  "sha256": "86B26C44CB8CEA22B64B251907EE79AB1A2BE081E076099D2E95366240391852",
   "sizeBytes": 2638914,
-  "publishedAt": "2026-10-16T23:45:45.2433136Z",
+  "publishedAt": "2026-10-23T00:52:23.4141998Z",
   "required": false,
   "releaseNotes": [
-    "إضافة واجهة استقبال وفرز الإشعارات منفصلة عن تحويل الرسائل إلى أرقام.",
-    "اختيار جهة اتصال أو مرسل SMS كمصدر وارد فقط؛ مع حفظ الرسائل ومنع تكرار البث.",
-    "استخراج المبلغ والعملة وإتاحة استكمالهما يدوياً، وإدارة الفئات وتعلّم التصنيف من تعديلات المحاسب.",
-    "بحث وفلاتر المصدر والتاريخ والعملة والفئة والمراجعة والمبلغ، مع فرز التاريخ والمبلغ.",
-    "مشاركة أو حفظ PDF للصفوف الظاهرة بعد الفلاتر والتصفية.",
-    "ترقية قاعدة البيانات دون حذف السجل أو الإعدادات الحالية."
+    "تحسين الدخول والاستعادة والتسجيل عبر الاشتراك الموحد لجميع تطبيقات الحزمة.",
+    "إيقاف التسجيل الجديد وإظهار مسار واضح لتسجيل الدخول أو الاستعادة عند إغلاقه.",
+    "تحديث الاشتراك عند فتح التطبيق، مع الحفاظ على الاستحقاق المحلي عند انقطاع الإنترنت وإعادة المحاولة دوريًا.",
+    "اجتازت النسخة اختبارات Android وLint والتحقق من توقيع APK."
   ]
 }
