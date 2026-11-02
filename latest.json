@@ -1,19 +1,18 @@
 {
   "schemaVersion": 1,
   "packageName": "com.mahmoodobaid.notificationforwarder",
-  "versionName": "1.4.16",
-  "versionCode": 23,
+  "versionName": "1.4.17",
+  "versionCode": 24,
   "minSupportedVersionCode": 5,
-  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.16-build23/notification-sms-forwarder-1.4.16-build23.apk",
+  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.17-build24/notification-sms-forwarder-1.4.17-build24.apk",
   "storeUrl": "https://mahmoodobaid.github.io/notification-sms-forwarder-releases/",
-  "sha256": "5546BBE94FABF2D01A6EBC2ACF849D15A44A129F987882D7033A4C1E5C97FFD6",
+  "sha256": "97255360CE7D104DE280F301FC0E276C7D36687013A39FA6A9D0C3220D19B829",
   "sizeBytes": 2655362,
-  "publishedAt": "2026-10-23T20:37:01.4151987Z",
+  "publishedAt": "2026-11-02T00:17:39.7635348Z",
   "required": false,
   "releaseNotes": [
-    "إضافة تطبيق الرسائل الافتراضي تلقائياً إلى مصادر التحويل مع فلاتر jaib وMfloos وعلامتي إخفاء رص: ورصيدك قابلة للتعديل.",
-    "منع إرسال الرسالة نفسها أكثر من مرة للرقم نفسه عند وصولها من مصادر مختلفة، بحجز محلي ذري سريع قبل الإرسال.",
-    "تحسين شاشة التصنيف بألوان مميزة ومتوافقة مع كل تصنيف ونقل عمود التصنيف قبل نص الرسالة.",
-    "تحقق الإصدار 1.4.16+23: اختبارات Android وlint وبناء APK الإنتاج والتحقق من التوقيع."
+    "إصلاح استعادة الحساب الموثوق عند رفض الجلسة المنتهية من الخادم.",
+    "منع الاعتماد على الاشتراك المخزن مؤقتًا بعد الرفض النهائي.",
+    "تحديث معالجة التجديد في التطبيق والعامل الخلفي."
   ]
 }
