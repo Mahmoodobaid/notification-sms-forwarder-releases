@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "packageName": "com.mahmoodobaid.notificationforwarder",
-  "versionName": "1.4.17",
-  "versionCode": 24,
+  "versionName": "1.4.18",
+  "versionCode": 25,
   "minSupportedVersionCode": 5,
-  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.17-build24/notification-sms-forwarder-1.4.17-build24.apk",
+  "downloadUrl": "https://github.com/Mahmoodobaid/notification-sms-forwarder-releases/releases/download/v1.4.18-build25/notification-sms-forwarder-1.4.18-build25.apk",
   "storeUrl": "https://mahmoodobaid.github.io/notification-sms-forwarder-releases/",
-  "sha256": "97255360CE7D104DE280F301FC0E276C7D36687013A39FA6A9D0C3220D19B829",
+  "sha256": "4F73D1A384EF3DB1F2CE91FF498A644B9C0A8145476603852B69DB19E5868F40",
   "sizeBytes": 2655362,
-  "publishedAt": "2026-11-02T00:17:39.7635348Z",
+  "publishedAt": "2026-11-12T00:09:48.2636880Z",
   "required": false,
   "releaseNotes": [
-    "إصلاح استعادة الحساب الموثوق عند رفض الجلسة المنتهية من الخادم.",
-    "منع الاعتماد على الاشتراك المخزن مؤقتًا بعد الرفض النهائي.",
-    "تحديث معالجة التجديد في التطبيق والعامل الخلفي."
+    "تسريع فتح التطبيق باستخدام آخر صلاحية موثقة محليًا، مع التحقق من الخادم في الخلفية عند توفر الاتصال.",
+    "الإبقاء على العمل دون الإنترنت وعدم فقدان الصلاحية المحفوظة عند الانقطاع المؤقت.",
+    "توافق تفعيل أو استعادة حساب المالك بكود COLL عبر تطبيقات بن عبيد الموحدة."
   ]
 }
